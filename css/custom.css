@@ -1,0 +1,13 @@
+.card-division{
+float:left;
+padding-top:10px;
+margin-right: 3%;
+width:  30%;
+height: 30%;
+}
+
+.row-container {
+  margin-left:auto;
+  margin-right:auto;
+  padding: 0 1.5rem;
+  width: 90%; }
