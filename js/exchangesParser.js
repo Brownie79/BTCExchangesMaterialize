@@ -1,5 +1,6 @@
 $(document).ready(function() { //Does funtion() when file loads
-	alert("Test1");
+	//alert("Test1"); //works
+
 });
 
 
