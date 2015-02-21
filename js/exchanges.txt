@@ -1,0 +1,41 @@
+--EXCHANGE--
+Name:BitStamp
+Link:https://www.bitstamp.net/
+Image:bitstamp.jpg
+Location:United Kingdom
+Type:Exchange
+CryptoCurrencies traded:Bitcoin,
+Fiat Currencies traded:USD,
+Description:Bitstamp, is a Bitcoin exchange based in the United Kingdom. As of September 2014 it was the world's second largest by volume. The company is headed by CEO Nejc Kodrič, who co-founded the company in 2011 with Damijan Merlak. The company initially operated in Slovenia, but moved its operations to the UK in April 2013.
+--EXCHANGE--
+Name:
+Link:
+Image:
+Location:
+Type:
+CryptoCurrencies traded:
+Description:
+
+/*
+Exchanges:
+Kraken
+Coinbase
+Bitstamp
+PurseIO
+BitFinex
+BTCe
+Cryptsy
+IgorExchange
+OKCoin
+CryptTrader
+BitFinex
+CampBX
+BTC China
+JustCoin Exchange
+Trucoin
+247Exchange
+Ice^3X
+Vault Of Satoshi
+BitX
+TeraExchange
+*/
