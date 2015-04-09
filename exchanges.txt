@@ -25,3 +25,165 @@ Type|Exchange
 Crypto Currencies|Bitcoin
 Fiat Currencies|USD
 Description|Kraken, the leading bitcoin exchange for euro trading, offers advanced trading tools, a sophisticated user interface, robust technical security and full regulatory compliance to traders and institutions. Since its public launch on 9 September 2013, Kraken has grown to serve over 100,000 clients around the globe and is consistently rated as the top exchange due to its continued commitment to putting clients first.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+--EXCHANGE--
+Name|Coinbase
+Link|https://www.coinbase.com/
+Image|http://i.imgur.com/saMRzTh.png
+Location|San Francisco, USA
+Type|Brokerage
+Crypto Currencies|Bitcoin
+Fiat Currencies|USD
+Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.

@@ -1,0 +1,69 @@
+<!--Card-->
+<div class="card card-division">
+  <div class="card-image waves-effect waves-block waves-light">
+    <img class="activator responsive-img" src="images/default.jpg">
+  </div>
+  <div class="card-content">
+    <span class="card-title activator grey-text text-darken-4">
+      Exchange Name <i class="mdi-navigation-more-vert right"></i>
+    </span>
+    <p>Link To Exchange Website</p>
+  </div>
+  <div class="card-reveal">
+    <span class="card-title grey-text text-darken-4">
+      Exchange Name <i class="mdi-navigation-close right"></i>
+    </span>
+    <p>Location: </p>
+    <p>Type: </p>
+    <p>Crypto Currencies: </p>
+    <p>Fiat Currencies: </p>
+    <p>Description: </p>
+  </div>
+</div>
+<!-- Card End -->
+<!--Card-->
+<div class="card card-division">
+  <div class="card-image waves-effect waves-block waves-light">
+    <img class="activator responsive-img" src="images/default.jpg">
+  </div>
+  <div class="card-content">
+    <span class="card-title activator grey-text text-darken-4">
+      Exchange Name <i class="mdi-navigation-more-vert right"></i>
+    </span>
+    <p>Link To Exchange Website</p>
+  </div>
+  <div class="card-reveal">
+    <span class="card-title grey-text text-darken-4">
+      Exchange Name <i class="mdi-navigation-close right"></i>
+    </span>
+    <p>Location: </p>
+    <p>Type: </p>
+    <p>Crypto Currencies: </p>
+    <p>Fiat Currencies: </p>
+    <p>Description: </p>
+  </div>
+</div>
+<!-- Card End -->
+<!--Card-->
+<div class="card card-division">
+  <div class="card-image waves-effect waves-block waves-light">
+    <img class="activator responsive-img" src="images/default.jpg">
+  </div>
+  <div class="card-content">
+    <span class="card-title activator grey-text text-darken-4">
+      Exchange Name <i class="mdi-navigation-more-vert right"></i>
+    </span>
+    <p>Link To Exchange Website</p>
+  </div>
+  <div class="card-reveal">
+    <span class="card-title grey-text text-darken-4">
+      Exchange Name <i class="mdi-navigation-close right"></i>
+    </span>
+    <p>Location: </p>
+    <p>Type: </p>
+    <p>Crypto Currencies: </p>
+    <p>Fiat Currencies: </p>
+    <p>Description: </p>
+  </div>
+</div>
+<!-- Card End -->

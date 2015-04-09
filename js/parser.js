@@ -14,8 +14,8 @@ $.get( "exchanges.txt")
 function makeCard(name,link,image,loc,type,crypto,fiat,desc){
   var div = "";
   div = '<div class="card card-division"> <!-- CARD -->'+
-          '<div class="card-image waves-effect waves-block waves-light">'+
-            '<img class="activator responsive-img" src="'+image+'">'+
+          '<div class="activator card-image waves-effect waves-block waves-light" style="background-image: url('+image+')">'+
+            //'<img class="activator responsive-img" src="'+image+'">'+
           '</div>'+
           '<div class="card-content">'+
             '<span class="card-title activator grey-text text-darken-4">'+
@@ -85,10 +85,10 @@ function parse(data){
       var fiat   = array[i+7].split("|")[1];
       var desc   = array[i+8].split("|")[1];
       i = i + 9;
-      //var card = makeCard(name,link,image,loc,type,crypto,fiat,desc);
-      var card = makeCard2();
+      var card = makeCard(name,link,image,loc,type,crypto,fiat,desc);
+      //var card = makeCard2();
       divArray[divArray.length] = card; //adds a new card at the end of the array
-      alert("Div Array Length " + divArray[divArray.length]);
+      //alert("Div Array Length " + divArray[divArray.length]);
     } else {
       i++; //protect against INF loop
     }
