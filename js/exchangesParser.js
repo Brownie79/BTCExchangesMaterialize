@@ -1,3 +1,4 @@
+//w1d
 //Attempt 7
 $.get( "exchanges.txt")
 .done(function( data ) {
