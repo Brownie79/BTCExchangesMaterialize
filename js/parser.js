@@ -1,14 +1,14 @@
 $.get( "exchanges.txt")
 .done(function( data ) {
     $( ".result" ).html( data );
-    alert("file fetched!");
+    //alert("file fetched!");
     parse(data);
 })
 .fail(function() {
-    alert( "error" );
+    alert( "error in fetching file" );
 })
 .always(function() {
-    alert( "finished");
+    //alert( "finished");
 });
 
 function makeCard(name,link,image,loc,type,crypto,fiat,desc){
@@ -36,7 +36,7 @@ function makeCard(name,link,image,loc,type,crypto,fiat,desc){
   return div;
 }
 
-function makeCard2(){
+function defaultCard(){
   var div = "";
   div = '<div class="card card-division"> <!-- CARD -->\
           <div class="card-image waves-effect waves-block waves-light">\

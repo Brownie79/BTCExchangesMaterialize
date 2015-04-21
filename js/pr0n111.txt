@@ -1,0 +1,20 @@
+Exchanges:
+Kraken
+Bitstamp
+PurseIO
+BitFinex
+BTCe
+Cryptsy
+IgorExchange
+OKCoin
+CryptTrader
+BitFinex
+CampBX
+BTC China
+JustCoin Exchange
+Trucoin
+247Exchange
+Ice^3X
+Vault Of Satoshi
+BitX
+TeraExchange
