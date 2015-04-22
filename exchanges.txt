@@ -7,6 +7,7 @@ Type|Exchange
 Crypto Currencies|Bitcoin
 Fiat Currencies traded|USD,
 Description|Bitstamp, is a Bitcoin exchange based in the United Kingdom. As of September 2014 it was the world's second largest by volume. The company is headed by CEO Nejc Kodrič, who co-founded the company in 2011 with Damijan Merlak. The company initially operated in Slovenia, but moved its operations to the UK in April 2013.
+
 --EXCHANGE--
 Name|Coinbase
 Link|https://www.coinbase.com/
@@ -16,6 +17,7 @@ Type|Brokerage
 Crypto Currencies|Bitcoin
 Fiat Currencies|USD
 Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+
 --EXCHANGE--
 Name|Kraken
 Link|https://www.kraken.com/
@@ -25,21 +27,72 @@ Type|Exchange
 Crypto Currencies|Bitcoin
 Fiat Currencies|USD
 Description|Kraken, the leading bitcoin exchange for euro trading, offers advanced trading tools, a sophisticated user interface, robust technical security and full regulatory compliance to traders and institutions. Since its public launch on 9 September 2013, Kraken has grown to serve over 100,000 clients around the globe and is consistently rated as the top exchange due to its continued commitment to putting clients first.
+
 --EXCHANGE--
-Name|Coinbase
-Link|https://www.coinbase.com/
-Image|http://i.imgur.com/saMRzTh.png
+Name|Coinbase Exchange
+Link|https://www.exchange.coinbase.com/
+Image|http://i.imgur.com/aivF6ni.jpg
 Location|San Francisco, USA
-Type|Brokerage
+Type|Exchange
 Crypto Currencies|Bitcoin
 Fiat Currencies|USD
 Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+
 --EXCHANGE--
-Name|Coinbase
-Link|https://www.coinbase.com/
-Image|http://i.imgur.com/saMRzTh.png
+Name|Purse IO
+Link|https://www.purse.io/
+Image|http://i.imgur.com/H93RIIW.png
 Location|San Francisco, USA
-Type|Brokerage
+Type| Marketplace
 Crypto Currencies|Bitcoin
+Fiat Currencies| USD
+Description|Purse is a marketplace that connects users across the globe through decentralized commerce. We build apps on top of the block chain that make it worth people's time to use bitcoin over every other payment option. We are driving mainstream adoption through 20% discounts on everything on Amazon! Buyers liquidate gift cards or pay Amazon with credit cards to purchase bitcoin.
+
+--EXCHANGE--
+Name|Bitfinex
+Link|https://www.bitfinex.com/
+Image|http://i.imgur.com/AFiCiCP.jpg
+Location|HongKong
+Type|Exchange
+Crypto Currencies|Bitcoin,Litecoin,DarkCoin
 Fiat Currencies|USD
-Description|Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin.
+Description|Bitfinex is a trading platform for Bitcoin and other crypto-assets with many advanced features including margin trading, exchange and liquidity swaps.
+
+--EXCHANGE--
+Name|BTCe
+Link|https://btc-e.com/
+Image|http://i.imgur.com/BsfGDt4.png
+Location|Western Russia
+Type|Exchange
+Crypto Currencies|Bitcoin, Litecoin,Namecoin,Novacoin,Peercoin
+Fiat Currencies|Rubble,Euro,Yuan,British Pound,US Dollar
+Description| BTC-e.com serves as a platform for individuals interested in buying and selling Bitcoins using an assortment of world currencies.
+
+--EXCHANGE--
+Name|CoinMX
+Link|https://coin.mx/
+Image|http://i.imgur.com/eDpaGTe.jpg
+Location|Texas,USA
+Type|Exchange
+Crypto Currencies|Bitcoin,Litecoin
+Fiat Currencies|USD
+Description|Coin.MX was started by a group of members within the Collectables Club Association. The Collectables Club is a Private Member Association located in the United States of America. Who can Join? Anyone!
+
+--EXCHANGE--
+Name|
+Link|
+Image|
+Location|
+Type|
+Crypto Currencies|
+Fiat Currencies|
+Description|
+--EXCHANGE--
+Name|
+Link|
+Image|
+Location|
+Type|
+Crypto Currencies|
+Fiat Currencies|
+Description|

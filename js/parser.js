@@ -19,18 +19,18 @@ function makeCard(name,link,image,loc,type,crypto,fiat,desc){
           '</div>'+
           '<div class="card-content">'+
             '<span class="card-title activator grey-text text-darken-4">'+
-            name + '<i class="mdi-navigation-more-vert right"></i>' +
-            '</span> <p>'+link+'</p>'+
+             name + '<i class="mdi-navigation-more-vert right"></i>' +
+            '</span> <p><a target="_blank" href='+link+'>Link</a></p>'+
           '</div>'+
           '<div class="card-reveal">'+
             '<span class="card-title grey-text text-darken-4">'+
-            name+' <i class="mdi-navigation-close right"></i>'+
+            name +'<i class="mdi-navigation-close right"></i>'+
             '</span>'+
-            '<p> Location:'+loc+'</p>'+
-            '<p> Type:'+type+'</p>'+
-            '<p> Crypto Currencies:'+crypto+'</p>'+
-            '<p> Fiat Currencies:'+fiat+'</p>'+
-            '<p> Descripton:'+desc+'</p>'+
+            '<p> Location: '+loc+'</p>'+
+            '<p> Type: '+type+'</p>'+
+            '<p> Crypto Currencies: '+crypto+'</p>'+
+            '<p> Fiat Currencies: '+fiat+'</p>'+
+            '<p> Descripton: '+desc+'</p>'+
           '</div>'+
         '</div> <!--Card End-->';
   return div;

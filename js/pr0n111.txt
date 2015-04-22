@@ -1,9 +1,13 @@
 Exchanges:
 Kraken
 Bitstamp
+Coinbase
+CoinbaseExchange
 PurseIO
 BitFinex
 BTCe
+CoinMX
+
 Cryptsy
 IgorExchange
 OKCoin
