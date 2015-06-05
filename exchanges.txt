@@ -86,11 +86,110 @@ Location|Delray Beach, Florida, USA
 Type|Exchange
 Crypto Currencies|BTC,LTC,XRP
 Fiat Currencies|USD,CAD,EUR
-Description|Cryptsy International is an Internet startup managed by Project Investors, Inc. focusing on the exchange of Crypto-Currency commonly known as “BitCoin” and it's derivatives. We currently service more than 200 different types of crypto-currency.
-The Cryptsy.com exchange opened on May 20th, 2013 and since then has seen rapid growth in both customer base and trade volume. We currently have over 270,000 registered users from all over the world with a volume of over 300k trades per day.
+Description|Cryptsy International is an Internet startup managed by Project Investors, Inc. focusing on the exchange of Crypto-Currency commonly known as “BitCoin” and it's derivatives. We currently service more than 200 different types of crypto-currency. The Cryptsy.com exchange opened on May 20th, 2013 and since then has seen rapid growth in both customer base and trade volume. We currently have over 270,000 registered users from all over the world with a volume of over 300k trades per day.
 
 --EXCHANGE--
-Name|
+Name|OKCoin
+Link|https://www.okcoin.com/
+Image|http://i.imgur.com/8pRFd62.png
+Location|China
+Type|Exchange
+Crypto Currencies|BTC,LTC
+Fiat Currencies|USD, CNY
+Description|OKCoin.com is a Chinese digital currency trading platform and exchange based in Beijing. OKCoin was founded in June 2013 and by 2014 had grown to become the largest Bitcoin exchange in China.
+
+--EXCHANGE--
+Name|BitFinex
+Link|https://www.bitfinex.com/
+Image|http://i.imgur.com/FXZ4o1g.png
+Location|USA
+Type|Exchange
+Crypto Currencies|
+Fiat Currencies|
+Description|The Bitfinex trading platform is currently in a beta phase (testing phase). The platform is owned and operated by iFinex Inc. (Bvi), and during this final phase the platform is being prepared to operate under a fully licensed model.
+
+--EXCHANGE--
+Name|CampBX
+Link|
+Image|
+Location|
+Type|
+Crypto Currencies|
+Fiat Currencies|
+Description|
+
+--EXCHANGE--
+Name|BTC China
+Link|
+Image|
+Location|
+Type|
+Crypto Currencies|
+Fiat Currencies|
+Description|
+
+--EXCHANGE--
+Name|JustCoin Exchange
+Link|
+Image|
+Location|
+Type|
+Crypto Currencies|
+Fiat Currencies|
+Description|
+
+--EXCHANGE--
+Name|Trucoin
+Link|
+Image|
+Location|
+Type|
+Crypto Currencies|
+Fiat Currencies|
+Description|
+
+--EXCHANGE--
+Name|247Exchange
+Link|
+Image|
+Location|
+Type|
+Crypto Currencies|
+Fiat Currencies|
+Description|
+
+--EXCHANGE--
+Name|Ice^3X
+Link|
+Image|
+Location|
+Type|
+Crypto Currencies|
+Fiat Currencies|
+Description|
+
+--EXCHANGE--
+Name|Vault Of Satoshi
+Link|
+Image|
+Location|
+Type|
+Crypto Currencies|
+Fiat Currencies|
+Description|
+
+--EXCHANGE--
+Name|BitX
+Link|
+Image|
+Location|
+Type|
+Crypto Currencies|
+Fiat Currencies|
+Description|
+
+--EXCHANGE--
+Name|TeraExchange
 Link|
 Image|
 Location|
