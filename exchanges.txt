@@ -79,14 +79,16 @@ Fiat Currencies|USD
 Description|Coin.MX was started by a group of members within the Collectables Club Association. The Collectables Club is a Private Member Association located in the United States of America. Who can Join? Anyone!
 
 --EXCHANGE--
-Name|
-Link|
-Image|
-Location|
-Type|
-Crypto Currencies|
-Fiat Currencies|
-Description|
+Name|Cryptsy
+Link|https://www.cryptsy.com/
+Image|http://i.imgur.com/g9dkxIu.png
+Location|Delray Beach, Florida, USA
+Type|Exchange
+Crypto Currencies|BTC,LTC,XRP
+Fiat Currencies|USD,CAD,EUR
+Description|Cryptsy International is an Internet startup managed by Project Investors, Inc. focusing on the exchange of Crypto-Currency commonly known as “BitCoin” and it's derivatives. We currently service more than 200 different types of crypto-currency.
+The Cryptsy.com exchange opened on May 20th, 2013 and since then has seen rapid growth in both customer base and trade volume. We currently have over 270,000 registered users from all over the world with a volume of over 300k trades per day.
+
 --EXCHANGE--
 Name|
 Link|
